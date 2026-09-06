@@ -11,7 +11,6 @@ class Solution {
                 }
             }
         }
-
         Arrays.sort(arr1, i, arr1.length);
         return arr1;
     }
