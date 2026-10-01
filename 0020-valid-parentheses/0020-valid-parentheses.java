@@ -12,7 +12,6 @@ class Solution {
                 (c == '}' && khali.peek() == '{') ||
                 (c == ']' && khali.peek() == '[')){
                 khali.pop();
-                
             }else{
                 return false;
             }
